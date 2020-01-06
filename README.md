@@ -1,6 +1,6 @@
-# python-fundamentals-student
+# Python Fundamentals
 
-Topics Covered:
+Topics covered:
 > Data types, Identifiers, and Functions
 
 > Parameter Passing and User Input
