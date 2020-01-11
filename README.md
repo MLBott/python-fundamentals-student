@@ -1,6 +1,12 @@
 # Python Fundamentals
 
-Topics covered:
+## Task
+Understand the fundamentals of Python.
+
+## Output
+The repository contains work based on the topics below.
+
+## Criteria
 > Data types, Identifiers, and Functions
 
 > Parameter Passing and User Input
@@ -18,3 +24,6 @@ Topics covered:
 > Programmer-defined Classes
 
 > Web-crawling and Web-scraping Fundamentals
+
+## Tech Stack
+> Python
